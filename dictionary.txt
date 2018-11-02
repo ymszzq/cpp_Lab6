@@ -1,0 +1,10 @@
+1 d1
+2 d2
+3 d3
+4 d4
+123 d123
+654 654
+abc abc
+qwe qwe
+word dword
+123321 3213
